@@ -30,7 +30,7 @@
 }
 
 .custom {
-    background: url('/tt.jpg');
+    background: url('https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg');
   background-size: 100% 100%;
   animation: gradient 20s ease-in-out infinite;
 
